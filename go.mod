@@ -1,4 +1,4 @@
-module github.com/luwa07832/feature-flag-service
+module github.com/xjeey8iust/sen-dp-budget-tracker
 
 go 1.26.0
 
